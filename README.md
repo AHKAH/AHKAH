@@ -4,7 +4,7 @@ Professor and Program Coordinator, Computer Programming and Analysis, at Humber 
 
 I build simulation and applied AI systems and teach people to build software.
 
-**Research:** virtual reality training for public safety, including the Universal Simulation Platform for IED disposal training and CIERT, a framework for measuring whether simulation training works.
+**Research:** CIERT, a framework for measuring whether simulation training for critical incidents and emergency response works, validated with a virtual reality platform for IED disposal training.
 
 **Current work:** lead developer of the BioHubNet V3 course marketplace, and AI teaching assistants for graduate courses.
 
